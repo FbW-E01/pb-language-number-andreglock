@@ -16,7 +16,3 @@ let age = 25;
 #### 2. Converting 
 * Create a variable with the value of "1005". Convert it to a number.
 * Create a variable with the value of "10.05". Convert it to a number. 
-
-
-
-
